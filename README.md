@@ -19,4 +19,6 @@
   - Não é permitido cadastrar elogios para usuários inválidos;
   - O usuário precisa estar autenticado na aplicação para receber elogios.
 
---> server > controller > service > ...
+## Notion Atualizado do Projeto 
+
+[NOTION](https://www.notion.so/Regras-de-Neg-cios-1ec2b714c019434caf622bb92088af22)
