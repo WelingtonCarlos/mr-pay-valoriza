@@ -14,7 +14,11 @@ class CreateComplimentService {
     user_sender,
     user_receiver,
     message,
-  }: IComplementRequest) {}
+  }: IComplementRequest) {
+    const complimentsRepositories = getCustomRepository(
+      ComplimentsRepositories
+    );
+  }
 }
 
 export { CreateComplimentService };
